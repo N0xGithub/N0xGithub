@@ -1,4 +1,4 @@
-# Hi there , I'm SANAGO 😎
+# Hello, I'm N0x
 ---
 ## About me:
 
