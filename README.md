@@ -9,7 +9,7 @@ I'am 16 years old, I love development
 ## Programming languages :
 <p>
 <img src="https://developer.mozilla.org/en-US/docs/Web/JavaScript" height=55px width=50px> | 
-<img src="[https://www.python.org](https://cdn.discordapp.com/attachments/1121402308253728868/1121402886740508683/1869px-Python-logo-notext.png)" height=50px width=50px> | 
+<img src="https://cdn.discordapp.com/attachments/1121402308253728868/1121402886740508683/1869px-Python-logo-notext.png" height=50px width=50px> | 
 <img src="https://www.cprogramming.com" height=50px width=44px> | 
 
 </p>
