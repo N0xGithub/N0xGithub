@@ -5,6 +5,7 @@
 - :telescope: I am currently working on my Organizations to make new scripts [OpenSourceCor](https://github.com/OpenSourceCor)
 - :page_facing_up: My projects are [XPHONE](https://github.com/OpenSourceCor/XPHONE)
 
+<h1 align="left">Contact</h1>
 
 - 📧 My e-mail : n0xcontact@proton.me
 
