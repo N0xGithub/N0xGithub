@@ -7,7 +7,7 @@
 
 <h3 align="left"> Contact 
 
-- My e-mail : n0xcontact@proton.me
+- 📧 My e-mail : n0xcontact@proton.me
 - My discord : Nox#8091
 
 <h3 align="left">Languages and Tools:</h3>
