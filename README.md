@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm N0x</h1>
-<h3 align="center">I have 16 years old</h3>
+<h3 align="center">I Learn Development</h3>
 
 - 💫 My dream to join a prestigious school of development and create many tools to use in the world.
 - :telescope: I am currently working on my Organizations to make new scripts [OpenSourceCor](https://github.com/OpenSourceCor)
