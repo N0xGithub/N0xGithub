@@ -1,10 +1,10 @@
 <h1 align="center">Hi :wave:, I'm N0x</h1>
-<h3 align="center">Discord : @nox19.</h3>
+<h3 align="center">Discord : @n0xito.</h3>
 
 - 💫 My dream to join a prestigious school of development and create many tools to use in the world.
 - :telescope: I am currently working on my Organizations to make new scripts [OpenSourceCor](https://github.com/OpenSourceCor)
 - :page_facing_up: My projects are [XPHONE](https://github.com/OpenSourceCor/XPHONE), [PROTEGO](https://github.com/N0xGithub/Protego), [SNAKE](https://github.com/N0xGithub/SNAKE)
-- 🖥️ Owner of [osint-db](https://osint-db.com/)
+- 🖥️ Owner of [REPOSTY](https://discord.gg/reposty)
 
 <h1 align="left">Contact</h1>
 
