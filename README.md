@@ -15,8 +15,8 @@
 
 <h1 align="left">About Me</h1>
 
-Hello, I'm N0x i have 16 years old.
-I'm French and I like a lot of other things on the Internet like osint, later I would like to become a pentester or a game developer
+Hello, I'm N0x i have 23 years old.
+I'm American and I like a lot of other things on the Internet like osint, later I would like to become a pentester or a game developer
 As you can see I talk a lot about development in my README so you can deduce that I like development and IT in general, I'm a big fan of Harry Potter hence my nickname "Nox" against spell of "Lumos" in Harry Potter.
 I learn day by day to provide you with the best of myself so as not to disappoint the great community that is [Github](https://github.com). I hope one day to mark the spirits with a tool never seen for osint or other !
 Good evening to you and thank you for reading.
